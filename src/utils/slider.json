@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Skyline District",
+    "price": "47,043",
+    "detail": "Sunset Grove Avenue, Encino. Sherman Oaks, Los Angeles County, California",
+    "image": "./r1.png"
+  },
+  {
+    "name": "BlueHearth Garden",
+    "price": "66,353",
+    "detail": "Parkview Estates Lane, Harlem. Upper Manhattan, New York City, New York",
+    "image": "./r2.png"
+  },
+  {
+    "name": "HavenMark",
+    "price": "35,853",
+    "detail": "Cedar Hill Avenue, Plano. Richardson Heights, Dallas County, Texas",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Skyline District",
+    "price": "47,043",
+    "detail": "Sunset Grove Avenue, Encino. Sherman Oaks, Los Angeles County, California",
+    "image": "./r1.png"
+  },
+  {
+    "name": "BlueHearth Garden",
+    "price": "66,353",
+    "detail": "Parkview Estates Lane, Harlem. Upper Manhattan, New York City, New York",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Citralan Puri Serang",
+    "price": "35,853",
+    "detail": "Cedar Hill Avenue, Plano. Richardson Heights, Dallas County, Texas",
+    "image": "./r3.png"
+  }
+]
