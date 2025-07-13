@@ -12,8 +12,8 @@ const Contact = () => {
           <span className="orangeText">Get in Touch</span>
           <span className="primaryText">Always just a message away</span>
           <span className="secondaryText">
-            We always ready to help by providijng the best services for you. We
-            beleive a good blace to live can make your life better{" "}
+            We’re always here to help — delivering the best service to meet your needs.
+            Because we believe that the right place to live can truly improve your life.
           </span>
 
           <div className="flexColStart contactModes">
@@ -26,7 +26,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Call</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="secondaryText">+234 123 145 14</span>
                   </div>
                 </div>
                 <div className="flexCenter button">Call now</div>
@@ -39,7 +39,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Chat</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="secondaryText">+234 123 145 14</span>
                   </div>
                 </div>
                 <div className="flexCenter button">Chat now</div>
@@ -55,7 +55,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Video Call</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="secondaryText">+234 123 145 14</span>
                   </div>
                 </div>
                 <div className="flexCenter button">Video Call now</div>
@@ -68,7 +68,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Message</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="secondaryText">+234 123 145 14</span>
                   </div>
                 </div>
                 <div className="flexCenter button">Message now</div>
